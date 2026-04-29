@@ -2,7 +2,7 @@
 **Disciplina:** Engenharia de Prompt e Aplicações em IA  
 **Instituição:** UDF Centro Universitário  
 **Professora:** Kadidja Valéria  
-**Ferramenta de IA utilizada no apoio à escrita:** Claude Sonnet (Anthropic) — utilizado para apoiar a organização das ideias, melhorar a coesão textual, revisar a estrutura do parecer e aprimorar a clareza da escrita. As reflexões, os exemplos práticos e os posicionamentos críticos são de autoria própria; o Claude atuou como parceiro de revisão e refinamento, não como gerador do conteúdo.  
+**Ferramenta de IA utilizada no apoio à escrita:** Claude Sonnet (Anthropic) — utilizado para apoiar a organização das ideias, melhorar a coesão textual, revisar a estrutura do parecer e aprimorar a clareza da escrita. As reflexões, os exemplos práticos e os posicionamentos críticos são de autoria própria; o Claude atuou como parceiro de revisão e refinamento.  
 **Fontes de pesquisa:** Material didático da disciplina (aulas 06/04, 14/04 e 28/04), referências citadas nos slides (Carraro, 2023; Murta, 2023; Barcaui, 2025; Lee, Goldberg e Kohane, 2024; Córdova, 2025; Mello, 2024)
 
 ---
